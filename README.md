@@ -70,7 +70,7 @@ This homework is graded based on the following criteria:
 
 ### Repository Quality: 13%
 
-* Repository has a unique name.
+* Repository has a unique name. (Password-Generator)
 
 * Repository follows best practices for file structure and naming conventions.
 
@@ -79,6 +79,9 @@ This homework is graded based on the following criteria:
 * Repository contains multiple descriptive commit messages.
 
 * Repository contains quality readme file with description, screenshot, and link to deployed application.
+  -Updated js file to create a random password generator
+  -screenshot image in assetts folder
+  -Application Link (https://uwilborn.github.io/Password-Generator/)
 
 ## Review
 

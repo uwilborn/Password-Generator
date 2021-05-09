@@ -6,7 +6,7 @@ const loweralpha = "abcdefghijklmnopqrstuvwxyz";
 const upperalpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const numbers = "0123456789";
 const symbols = "!@#$%^&*+=?/";
-var results = ''; //Create variable to store character types selected
+var results = ''; //Created variable to store character types selected
 
 
 // Write password to the #password input
