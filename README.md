@@ -80,7 +80,6 @@ This homework is graded based on the following criteria:
 
 * Repository contains quality readme file with description, screenshot, and link to deployed application.
   -Updated js file to create a random password generator
-  -screenshot image in assetts folder
   -Application Link (https://uwilborn.github.io/Password-Generator/)
 
 ## Review

@@ -34,10 +34,10 @@ function generatePassword() {
   if (passwordSymbols) {
     results = results + symbols
   }
-  // else {
-  //   alert('Please select atleast one character type!') //Alerts employee if no character is selected
-  //   generatePassword() // Restarts function if no characters are selected
-  // }
+  else {
+    alert('Please select atleast one character type!') //Alerts employee if no character is selected
+    generatePassword() // Restarts function if no characters are selected
+  }
   var password = ''; 
   for (var i = 1; i <= passwordLength; i++) {
     var randomNumber = Math.floor(Math.random() * results.length); 
